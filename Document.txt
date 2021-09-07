@@ -1,0 +1,16 @@
+﻿*** Mở tool:
++_000webhostlogin()  ;checkkeyhtth   matkhauhung
+==Lỗi: Random 'Lỗi ko xác định'/'Cần update'
+
++Check đăng nhập vào tài khoản Zing: htth281199 Matkhauhung1
+==Đúng: Chạy bthg
+==Sai: 	Hiện thông báo 'Phát hiện sao chép bất hợp pháp'
+
+
+*** Đóng tool:
++Nạp xong: Tính tổng tiền nạp trong lần mở tool
++Login vào 000webhost, sai pass thì: Lỗi không xác định! Vui lòng liên hệ để khắc phục
++Login và download file report.txt từ 000webhost về, sau đó edit, upload lại. 
++File report.txt gồm: Thời gian gửi file + Tổng số thẻ đã nạp + Tổng số tiền đã nạp
+
+
