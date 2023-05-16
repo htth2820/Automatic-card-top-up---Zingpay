@@ -1,3 +1,5 @@
+Automating the process of topping up game cards via online payment portal https://pay.zing.vn. Allows users to top up thousands of cards in a short amount of time automatically without having their accounts blocked. Supports most games at the time of release (2020).
+
 Hướng dẫn sử dụng:
 [+] Nhập tài khoản, mật khẩu nick Zing và chọn Game. 
 [+]Nếu chọn Gunny thì phải chọn đúng Server cần nạp, các game khác thì không cần, sau đó nhấn LOGIN
