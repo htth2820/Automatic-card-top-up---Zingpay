@@ -1,5 +1,7 @@
-﻿Hướng dẫn sử dụng:
+Supports students in registering for courses on the university's system at the Foreign Trade University's website http://ftugate.ftu.edu.vn automatically. Includes main features such as registering/dropping courses, registering from a pre-made list, automatic registration when course slots are added, etc. 
+Demo version 2019: https://www.youtube.com/watch?v=tfaVHzLzKiM
 
+Hướng dẫn sử dụng:
 [+] Nhập tài khoản, mật khẩu nick Zing và chọn Game. 
 [+]Nếu chọn Gunny thì phải chọn đúng Server cần nạp, các game khác thì không cần, sau đó nhấn LOGIN
 [+] Sau khi có thông báo "Đăng nhập thành công", click "Open" để chọn file .txt chứa Mã thẻ và Serial. Dữ liệu trong file .txt phải được sắp xếp theo 1 trong 2 dạng dưới đây: 
